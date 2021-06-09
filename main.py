@@ -2,6 +2,4 @@ import numpy as np
 
 array = []
 
-print(f'this is a test of the scripts')
-
-
+print(f'this is a test of the not anymore')
